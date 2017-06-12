@@ -123,7 +123,7 @@ namespace PdfToImage
 
         private int _iWidth;
         private int _iHeight;
-        private int _iResolutionX = 2540/2;
+        private int _iResolutionX = 254;
         private int _iResolutionY;
         private int _iJPEGQuality;
         /// <summary>The first page to convert in image</summary>
