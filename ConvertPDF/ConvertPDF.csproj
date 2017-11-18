@@ -128,6 +128,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="graphics.ico" />
+    <Content Include="gsdll32.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PdfToImage\PdfToImage.csproj">
